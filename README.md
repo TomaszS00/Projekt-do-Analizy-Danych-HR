@@ -12,7 +12,7 @@ Zbiór danych zawiera informacje dotyczące pracowników fikcyjnej firmy, takie 
 3.	System powinien umożliwiać przetwarzanie oraz integrację danych z różnych źródeł tak aby nadawały się do dalszej analizy
 4.	System musi umożliwiać użytkownikom obsługę wyjątków czyli pozwolić na wykluczenie rekordów danych z analizy z powodów uzasadnionych biznesowo
 5.	Hurtownia danych powinna umożliwiać integrację z narzędziami Business Inteligence np. PowerBi w celu prezentacji wyników analizy danych oraz ich raportowania
-6.	System powinien umożliwiać analizę oraz wizualizacje danych pod kątem wpływu rozmaitych czynników na rotację pracowników
+6.	System powinien umożliwiać analizę oraz wizualizacje danych pod kątem wpływu rozmaitych czynników na decyzję pracowników o zmianie miejsca zatrudnienia
 # Wymagania Niefunkcjonalne
 1.	System powinien umożliwiać szybką analizę dużych zbiorów danych oraz szeroką dostępność przez całą dobę, nie powinien być również podatny na wszelkie awarie oraz przerwy techniczne
 2.	System powinien wspierać odświeżanie źródeł danych w czasie rzeczywistym w celu zapewnienia użytkownikowi końcowemu dostępu do jak najbardziej aktualnych danych a w związku z tym również informacji biznesowych
