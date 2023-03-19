@@ -1,12 +1,11 @@
 # Projekt do Analizy Danych HR
-Projekt Analizy Danych HR jest realizowany w celu identyfikacji czynników wpływających na poziom rotacji pracowników w firmie. 
+Projekt Analizy Danych HR jest realizowany w celu identyfikacji czynników wpływających na decyzje pracowników o rezygnacji z pracy w aktualnej firmie. 
 
 Celem biznesowym badania danych tego typu jest przyczynienie się do lepszego funkcjonowania i wydajności firmy oraz jej pracowników poprzez zmniejszenie poziomu rotacji wewnątrz przedsiębiorstwa dzięki trafnym decyzjom biznesowym podejmowanym w oparciu o wcześniej przygotowane analizy danych. 
 # Źródła danych
-Do realizacji projektu wykorzystano zbiór danych IBM HR Analytics Employee Attrition & Performance dostępny na platformie [Kaggle](https://www.kaggle.com/).
-Zbiór danych zawiera informacje dotyczące pracowników fikcyjnej firmy, takie jak rotacja, wiek, płeć, wykształcenie, pensje, satysfakcja z pracy, wydajność czy ilość podróży służbowych.
-
-Żródło: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+Do realizacji projektu wykorzystano zbiór danych The People Analytics Starter Dataset [dostępny tutaj](https://www.stevenshoemaker.me/datasets/starter).
+Zbiór danych zawiera informacje dotyczące pracowników fikcyjnej firmy, takie jak data zatrudnienia, data odejścia, wiek, płeć, wykształcenie, wynagrodzenie, dział, poziom stanowiska, lokacja czy informacje o możliwości pracy zdalnej.
+Żródło: [People Analytics Starter](https://www.stevenshoemaker.me/datasets/starter)
 # Wymagania Funkcjonalne
 1.	System musi pozwalać na przetwarzanie danych z baz danych oraz plików CSV
 2.	System powinien wspierać funkcjonalność dotyczącą automatycznej aktualizacji danych w hurtowni w przypadku pojawienia się nowych danych
