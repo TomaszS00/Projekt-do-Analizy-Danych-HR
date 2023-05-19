@@ -5,7 +5,7 @@ Celem biznesowym badania danych tego typu jest przyczynienie się do lepszego fu
 
 # Źródła danych
 Do realizacji projektu wykorzystano zbiór danych The People Analytics Starter Dataset. Zbiór danych zawiera informacje dotyczące pracowników fikcyjnej firmy, takie jak data zatrudnienia, data odejścia, wiek, płeć, wykształcenie, wynagrodzenie, dział, poziom stanowiska, lokacja czy informacje o możliwości pracy zdalnej.
-Żródło: [People Analytics Starter](https://www.stevenshoemaker.me/datasets/starter)
+Żródło: [People Analytics Starter]([https://www.stevenshoemaker.me/datasets/starter](https://www.linkedin.com/pulse/people-analytics-starter-free-dataset-steven-shoemaker/))
 
 # Zakres Projektu
 Realizacja projektu obejmuje:
